@@ -1,0 +1,1 @@
+Repository ini berisi tentang cara menggunakan language model seperti BERT untuk melakukan task analisis sentimen. 
